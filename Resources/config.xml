@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/config.xsd">
+    <elements>
+        <element required="true" type="text" scope="locale">
+            <name>browserQuery</name>
+            <label lang="en">Browser Query</label>
+            <value>last 1 version, not dead, > 0.2%</value>
+            <description>Browserlist query, separated by commas</description>
+        </element>
+    </elements>
+</config>

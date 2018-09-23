@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin>
+<label>CSS Autoprefixer</label>
+<version>1.0.0</version>
+<copyright>Maxi Arnicke</copyright>
+<license>MIT</license>
+<link>https://www.metaroom.net/</link>
+<author>Maxi Arnicke</author>
+<description>
+    Creates CSS vendor prefixes for the current theme automatically.
+    See https://github.com/browserslist/browserslist#best-practices for configuring supported browsers.
+</description>
+</plugin>
